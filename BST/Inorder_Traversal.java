@@ -14,7 +14,7 @@ class Node {
     }
 }
 
-class Solution {
+class Inorder_Traversal{
     public static void inOrder(Node root) {
     	if( root!= null) {
     		inOrder(root.left);
