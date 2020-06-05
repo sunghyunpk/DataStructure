@@ -1,0 +1,15 @@
+Input {
+    6
+    1 2 5 3 6 4
+}
+
+Output {
+    1 2 3 4 5 6
+}
+
+Explanation {
+The iput has two lines: 
+the first line shows how many numbers to be inserted into the BST,
+and the second lines shows the actual numbers.
+The output is the inorder output of the nodes. 
+}
